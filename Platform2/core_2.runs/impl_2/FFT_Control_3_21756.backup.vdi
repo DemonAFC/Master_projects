@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jul 25 13:09:40 2018
+# Process ID: 21756
+# Current directory: C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/core_2/core_2.runs/impl_2
+# Command line: vivado.exe -log FFT_Control_3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FFT_Control_3.tcl -notrace
+# Log file: C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/core_2/core_2.runs/impl_2/FFT_Control_3.vdi
+# Journal file: C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/core_2/core_2.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source FFT_Control_3.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step init_design"
+    (file "FFT_Control_3.tcl" line 48)
+INFO: [Common 17-206] Exiting Vivado at Wed Jul 25 13:09:45 2018...
