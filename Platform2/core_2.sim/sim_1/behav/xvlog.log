@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/Design/Code/FFT_Control_3.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module FFT_Control_3
-INFO: [VRFC 10-2458] undeclared symbol m_axis_data_tuser, assumed default net type wire [C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/Design/Code/FFT_Control_3.v:96]
-INFO: [VRFC 10-2458] undeclared symbol m_axis_data_tlast, assumed default net type wire [C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/Design/Code/FFT_Control_3.v:99]
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/core_2/core_2.srcs/sim_1/imports/TestBeach/tb_fft_3.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_fft_3
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Hoang_Design/Example/2.softcore/FFT_IP_Core-master/FFT_IP_Core-master/core_2/core_2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

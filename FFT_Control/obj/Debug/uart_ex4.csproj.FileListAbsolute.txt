@@ -1,0 +1,10 @@
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\bin\Debug\uart_ex4.exe
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\bin\Debug\uart_ex4.exe.config
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\bin\Debug\uart_ex4.pdb
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex3.Form1.resources
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.Properties.Resources.resources
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.csproj.GenerateResource.cache
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.exe
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.pdb
+C:\Users\Administrator\Hoang_Design\VS2017\uart_ex4\uart_ex4\obj\Debug\uart_ex4.csprojAssemblyReference.cache
