@@ -1,0 +1,1544 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Note: Feeding input sample ...
+Time: 300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 1100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 1100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 1100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 1300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 1300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 1300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 1500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 1500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 1500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 1700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 1700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 1700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 1900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 1900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 1900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 2100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 2100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 2100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 2300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 2300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 2300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 2500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 2500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 2500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 2700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 2700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 2700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 2900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 2900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 2900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 3100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 3100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 3100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 3300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 3300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 3300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 3500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 3500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 3500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 3700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 3700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 3700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 3900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 3900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 3900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 4100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 4100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 4100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 4300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 4300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 4300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 4500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 4500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 4500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 4700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 4700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 4700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 4900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 4900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 4900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 5100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 5100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 5100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 5300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 5300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 5300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 5500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 5500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 5500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 5700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 5700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 5700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 5900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 5900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 5900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 6100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 6100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 6100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 6300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 6300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 6300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 6500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 6500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 6500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 6700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 6700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 6700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 6900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 6900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 6900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 7100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 7100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 7100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 7300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 7300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 7300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 7500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 7500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 7500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 7700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 7700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 7700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 7900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 7900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 7900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 8100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 8100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 8100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 8300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 8300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 8300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 8500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 8500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 8500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 8700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 8700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 8700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 8900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 8900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 8900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 9100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 9100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 9100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 9300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 9300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 9300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 9500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 9500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 9500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 9700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 9700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 9700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 9900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 9900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 9900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 10100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 10100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 10100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 10300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 10300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 10300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 10500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 10500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 10500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 10700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 10700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 10700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 10900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 10900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 10900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 11100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 11100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 11100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 11300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 11300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 11300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 11500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 11500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 11500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 11700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 11700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 11700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 11900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 11900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 11900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 12100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 12100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 12100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 12300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 12300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 12300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 12500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 12500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 12500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 12700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 12700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 12700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 12900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 12900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 12900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 13100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 13100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 13100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 13300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 13300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 13300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 13500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 13500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 13500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 13700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 13700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 13700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 13900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 13900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 13900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 14100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 14100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 14100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 14300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 14300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 14300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 14500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 14500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 14500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 14700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 14700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 14700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 14900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 14900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 14900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 15100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 15100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 15100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 15300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 15300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 15300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 15500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 15500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 15500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 15700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 15700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 15700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 15900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 15900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 15900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 16100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 16100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 16100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 16300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 16300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 16300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 16500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 16500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 16500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 16700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 16700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 16700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 16900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 16900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 16900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 17100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 17100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 17100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 17300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 17300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 17300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 17500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 17500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 17500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 17700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 17700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 17700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 17900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 17900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 17900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 18100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 18100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 18100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 18300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 18300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 18300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 18500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 18500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 18500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 18700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 18700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 18700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 18900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 18900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 18900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 19100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 19100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 19100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 19300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 19300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 19300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 19500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 19500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 19500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 19700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 19700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 19700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 19900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 19900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 19900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 20100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 20100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 20100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 20300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 20300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 20300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 20500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 20500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 20500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 20700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 20700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 20700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 20900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 20900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 20900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 21100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 21100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 21100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 21300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 21300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 21300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 21500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 21500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 21500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 21700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 21700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 21700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 21900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 21900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 21900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 22100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 22100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 22100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 22300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 22300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 22300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 22500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 22500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 22500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 22700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 22700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 22700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 22900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 22900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 22900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 23100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 23100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 23100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 23300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 23300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 23300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 23500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 23500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 23500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 23700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 23700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 23700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 23900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 23900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 23900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 24100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 24100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 24100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 24300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 24300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 24300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 24500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 24500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 24500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 24700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 24700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 24700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 24900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 24900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 24900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 25100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 25100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 25100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 25300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 25300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 25300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 25500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 25500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 25500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 25700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 25700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 25700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 25900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 25900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 25900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 26100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 26100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 26100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 26300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 26300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 26300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 26500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 26500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 26500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 26700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 26700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 26700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 26900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 26900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 26900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 27100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 27100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 27100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 27300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 27300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 27300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 27500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 27500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 27500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 27700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 27700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 27700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 27900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 27900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 27900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 28100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 28100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 28100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 28300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 28300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 28300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 28500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 28500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 28500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 28700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 28700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 28700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 28900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 28900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 28900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 29100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 29100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 29100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 29300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 29300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 29300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 29500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 29500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 29500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 29700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 29700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 29700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 29900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 29900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 29900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 30100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 30100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 30100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 30300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 30300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 30300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 30500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 30500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 30500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 30700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 30700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 30700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 30900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 30900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 30900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 31100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 31100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 31100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 31300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 31300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 31300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 31500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 31500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 31500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 31700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 31700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 31700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 31900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 31900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 31900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 32100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 32100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 32100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 32300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 32300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 32300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 32500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 32500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 32500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 32700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 32700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 32700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 32900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 32900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 32900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 33100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 33100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 33100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 33300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 33300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 33300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 33500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 33500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 33500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 33700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 33700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 33700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 33900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 33900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 33900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 34100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 34100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 34100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 34300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 34300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 34300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 34500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 34500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 34500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 34700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 34700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 34700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 34900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 34900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 34900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 35100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 35100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 35100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 35300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 35300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 35300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 35500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 35500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 35500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 35700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 35700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 35700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 35900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 35900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 35900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 36100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 36100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 36100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 36300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 36300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 36300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 36500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 36500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 36500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 36700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 36700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 36700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 36900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 36900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 36900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 37100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 37100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 37100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 37300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 37300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 37300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 37500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 37500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 37500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 37700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 37700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 37700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 37900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 37900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 37900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 38100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 38100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 38100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 38300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 38300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 38300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 38500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 38500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 38500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 38700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 38700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 38700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 38900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 38900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 38900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 39100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 39100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 39100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 39300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 39300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 39300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 39500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 39500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 39500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 39700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 39700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 39700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 39900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 39900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 39900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 40100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 40100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 40100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 40300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 40300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 40300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 40500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 40500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 40500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 40700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 40700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 40700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 40900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 40900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 40900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 41100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 41100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 41100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 41300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 41300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 41300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 41500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 41500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 41500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 41700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 41700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 41700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 41900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 41900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 41900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 42100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 42100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 42100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 42300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 42300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 42300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 42500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 42500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 42500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 42700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 42700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 42700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 42900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 42900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 42900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 43100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 43100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 43100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 43300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 43300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 43300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 43500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 43500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 43500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 43700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 43700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 43700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 43900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 43900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 43900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 44100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 44100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 44100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 44300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 44300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 44300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 44500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 44500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 44500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 44700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 44700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 44700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 44900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 44900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 44900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 45100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 45100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 45100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 45300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 45300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 45300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 45500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 45500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 45500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 45700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 45700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 45700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 45900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 45900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 45900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 46100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 46100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 46100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 46300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 46300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 46300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 46500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 46500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 46500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 46700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 46700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 46700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 46900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 46900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 46900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 47100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 47100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 47100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 47300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 47300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 47300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 47500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 47500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 47500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 47700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 47700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 47700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 47900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 47900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 47900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 48100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 48100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 48100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 48300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 48300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 48300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 48500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 48500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 48500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 48700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 48700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 48700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 48900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 48900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 48900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 49100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 49100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 49100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 49300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 49300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 49300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 49500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 49500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 49500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 49700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 49700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 49700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 49900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 49900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 127 Im: 0
+Time: 49900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 50100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 50100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 50100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 50300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 50300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 50300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 50500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 50500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 50500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 50700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 50700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -127 Im: 0
+Time: 50700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 50900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 50900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: -90 Im: 0
+Time: 50900 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 51100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 51100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 51100 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 51300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 51300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 90 Im: 0
+Time: 51300 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 51500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Feeding input sample ...
+Time: 51500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: Re: 0 Im: 0
+Time: 51500 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd
+Note: ... done.
+Time: 51700 ns  Iteration: 0  Process: /fft_tb/read_input  File: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd

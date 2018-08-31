@@ -1,0 +1,203 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat Jul 28 09:34:59 2018
+# Process ID: 15008
+# Current directory: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5420 C:\Users\Administrator\Hoang_Design\Example\1.VHDL\fft_8\fft_8.xpr
+# Log file: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/vivado.log
+# Journal file: C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.xpr
+launch_simulation
+source fft_tb.tcl
+save_project_as fft_16 C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16 -force
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+open_run impl_1
+create_clock -period 20.000 -name clk -waveform {0.000 10.000} [get_ports clk]
+file mkdir C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1/new
+close [ open C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1/new/fft_16.xdc w ]
+add_files -fileset constrs_1 C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1/new/fft_16.xdc
+set_property target_constrs_file C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1/new/fft_16.xdc [current_fileset -constrset]
+save_constraints -force
+save_constraints -force
+save_constraints_as constrs_2
+set_property constrset constrs_2 [get_runs synth_1]
+set_property constrset constrs_2 [get_runs impl_1]
+remove_files  -fileset constrs_1 C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1/new/fft_16.xdc
+delete_fileset constrs_1
+file delete -force C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.srcs/constrs_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+refresh_design
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+set_input_delay -clock clk 5.0 [get_ports {d_im[0] d_im[1] d_im[2] d_im[3] d_im[4] d_im[5] d_im[6] d_im[7] d_im[8] d_im[9] d_im[10] d_im[11] d_im[12] d_im[13] d_im[14] d_re[0] d_re[1] d_re[2] d_re[3] d_re[4] d_re[5] d_re[6] d_re[7] d_re[8] d_re[9] d_re[10] d_re[11] d_re[12] d_re[13] d_re[14] rst}]
+set_output_delay -clock [get_clocks  "*"] 5.0 [get_ports -filter { NAME =~  "*" && DIRECTION == "OUT" }]
+set_input_delay -clock [get_clocks  "*"] 5.0 [get_ports {d_im[0] d_im[1] d_im[2] d_im[3] d_im[4] d_im[5] d_im[6] d_im[7] d_im[8] d_im[9] d_im[10] d_im[11] d_im[12] d_im[13] d_im[14] d_re[0] d_re[1] d_re[2] d_re[3] d_re[4] d_re[5] d_re[6] d_re[7] d_re[8] d_re[9] d_re[10] d_re[11] d_re[12] d_re[13] d_re[14] rst}]
+save_constraints
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+refresh_design
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+save_project_as fft_17 C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_17 -force
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+close_project
+open_project C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_16/fft_16.xpr
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+open_run impl_1
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+close_sim
+launch_simulation
+source fft_tb.tcl
+open_project C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.xpr
+open_bd_design {C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.srcs/sources_1/bd/design_1/design_1.bd}
+validate_bd_design -force
+save_bd_design
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+current_project fft_16
+close_sim
+close_project
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.runs/impl_1/design_1_wrapper.bit} [lindex [get_hw_devices xc7a35t_0] 0]
+current_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+file copy -force C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.runs/impl_1/design_1_wrapper.sysdef C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.sdk/design_1_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.sdk -hwspec C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_6/project_6.sdk/design_1_wrapper.hdf
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+save_project_as project_9 C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9 -force
+open_bd_design {C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.srcs/sources_1/bd/design_1/design_1.bd}
+startgroup
+set_property -dict [list CONFIG.CLKOUT1_REQUESTED_OUT_FREQ {100} CONFIG.MMCM_DIVCLK_DIVIDE {1} CONFIG.MMCM_CLKOUT0_DIVIDE_F {10.000} CONFIG.CLKOUT1_JITTER {130.958}] [get_bd_cells clk_wiz_1]
+endgroup
+save_bd_design
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+file copy -force C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.runs/impl_1/design_1_wrapper.sysdef C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.sdk/design_1_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.sdk -hwspec C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.sdk/design_1_wrapper.hdf
+launch_sdk -workspace C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.sdk -hwspec C:/Users/Administrator/Hoang_Design/Example/3.HelloFFT/project_9/project_9.sdk/design_1_wrapper.hdf

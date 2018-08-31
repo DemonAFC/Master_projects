@@ -1,0 +1,79 @@
+Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
+| Date         : Thu Jul 26 10:50:04 2018
+| Host         : HOANGPV89-PC running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file FFT_Control_3_control_sets_placed.rpt
+| Design       : FFT_Control_3
+| Device       : xc7a35t
+------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+3. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    14 |
+| Unused register locations in slices containing registers |    48 |
++----------------------------------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             170 |           43 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |               0 |            0 |
+| Yes          | No                    | No                     |             941 |          179 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |              25 |            8 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+3. Detailed Control Set Information
+-----------------------------------
+
++----------------+-------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+------------------+----------------+
+|  Clock Signal  |                                                      Enable Signal                                                      |                                                   Set/Reset Signal                                                   | Slice Load Count | Bel Load Count |
++----------------+-------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+------------------+----------------+
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/config_channel_fifo/gen_non_real_time.data_in_fifo_pt1/wr_enable                       |                                                                                                                      |                1 |              1 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/cntrl/pe_cnt/cnt_reg[3].addsub_reg_0         | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/cntrl/process_state_s                     |                2 |              5 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/cntrl/processing_state/ce_pedelay            |                                                                                                                      |                3 |              7 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/symbols_out_remaining[9]_i_1_n_0                                                       |                                                                                                                      |                4 |             10 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/ce_w2c                                                                                 | FFT_inst0/U0/i_synth/axi_wrapper/same_input_output_order.inon.no_cyclic_prefix.OUT_ADDR_reg[9]                       |                2 |             10 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/cntrl/processing_state/no_early_reg.I_TC_reg | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/cntrl/loading_state/no_early_reg.I_TC_reg |                4 |             10 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/xk_index_counter_ce                                                                    |                                                                                                                      |                4 |             12 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/xn_index_counter_ce                                                                    |                                                                                                                      |                4 |             12 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/data_in_channel_fifo/gen_non_real_time.data_in_fifo_pt1/wr_enable                      |                                                                                                                      |                4 |             28 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/data_in_channel_fifo/gen_non_real_time.data_in_fifo_pt1/p_8_out                        |                                                                                                                      |                5 |             28 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/data_in_channel_fifo/gen_non_real_time.data_in_fifo_pt1/p_4_out5_out                   |                                                                                                                      |                6 |             28 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/xfft_inst/non_floating_point.arch_c.xfft_inst/control/delay_line_for_dv3/wr_enable                 |                                                                                                                      |                7 |             50 |
+|  clk_IBUF_BUFG |                                                                                                                         |                                                                                                                      |               43 |            170 |
+|  clk_IBUF_BUFG | FFT_inst0/U0/i_synth/axi_wrapper/ce_w2c                                                                                 |                                                                                                                      |              176 |            984 |
++----------------+-------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+------------------+----------------+
+
+
++--------+-----------------------+
+| Fanout | Number of ControlSets |
++--------+-----------------------+
+| 1      |                     1 |
+| 5      |                     1 |
+| 7      |                     1 |
+| 10     |                     3 |
+| 12     |                     2 |
+| 16+    |                     6 |
++--------+-----------------------+
+
+

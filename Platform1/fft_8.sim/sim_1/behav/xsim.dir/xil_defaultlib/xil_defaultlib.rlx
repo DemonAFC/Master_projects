@@ -1,0 +1,13 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd,1531822801,vhdl,,,,fft_tb,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/project_1/math_real-body.vhdl,1527631494,vhdl,,,,,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/project_1/math_real.vhdl,1527631494,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/project_1/math_real-body.vhdl;C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/rotator/rotator.vhd;C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/twiddle_rom/twiddle_rom.vhd,,,math_real,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/butterfly/butterfly.vhd,1508852586,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,,,butterfly,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/counter/counter.vhd,1527522915,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,,,counter,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/delayline/delayline.vhd,1508852586,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,,,delayline,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,1528373007,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sim_1/imports/fft/fft_tb.vhd,,,fft,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/rotator/rotator.vhd,1527758542,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,,,rotator,,,,,,,,
+C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/twiddle_rom/twiddle_rom.vhd,1527760426,vhdl,C:/Users/Administrator/Hoang_Design/Example/1.VHDL/fft_8/fft_8.srcs/sources_1/imports/src/fft/fft.vhd,,,twiddle_rom,,,,,,,,

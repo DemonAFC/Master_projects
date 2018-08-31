@@ -1,0 +1,215 @@
+Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+-------------------------------------------------------------------------------------------------------------------------------
+| Tool Version     : Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
+| Date             : Mon Jun 11 14:14:47 2018
+| Host             : HOANGPV89-PC running 64-bit major release  (build 9200)
+| Command          : report_power -file fft_power_routed.rpt -pb fft_power_summary_routed.pb -rpx fft_power_routed.rpx
+| Design           : fft
+| Device           : xc7a35tcpg236-1
+| Design State     : routed
+| Grade            : commercial
+| Process          : typical
+| Characterization : Production
+-------------------------------------------------------------------------------------------------------------------------------
+
+Power Report
+
+Table of Contents
+-----------------
+1. Summary
+1.1 On-Chip Components
+1.2 Power Supply Summary
+1.3 Confidence Level
+2. Settings
+2.1 Environment
+2.2 Clock Constraints
+3. Detailed Reports
+3.1 By Hierarchy
+
+1. Summary
+----------
+
++--------------------------+-----------------------------------+
+| Total On-Chip Power (W)  | 110.883 (Junction temp exceeded!) |
+| Dynamic (W)              | 110.396                           |
+| Device Static (W)        | 0.486                             |
+| Effective TJA (C/W)      | 5.0                               |
+| Max Ambient (C)          | 0.0                               |
+| Junction Temperature (C) | 125.0                             |
+| Confidence Level         | Low                               |
+| Setting File             | ---                               |
+| Simulation Activity File | ---                               |
+| Design Nets Matched      | NA                                |
++--------------------------+-----------------------------------+
+
+
+1.1 On-Chip Components
+----------------------
+
++--------------------------+-----------+----------+-----------+-----------------+
+| On-Chip                  | Power (W) | Used     | Available | Utilization (%) |
++--------------------------+-----------+----------+-----------+-----------------+
+| Slice Logic              |    27.551 |     3186 |       --- |             --- |
+|   LUT as Logic           |    23.608 |     1953 |     20800 |            9.39 |
+|   LUT as Distributed RAM |     1.890 |      136 |      9600 |            1.42 |
+|   CARRY4                 |     1.606 |      250 |      8150 |            3.07 |
+|   Register               |     0.441 |      412 |     41600 |            0.99 |
+|   BUFG                   |     0.006 |        1 |        32 |            3.13 |
+|   Others                 |     0.000 |       85 |       --- |             --- |
+| Signals                  |    30.310 |     3016 |       --- |             --- |
+| Block RAM                |     0.431 |        2 |        50 |            4.00 |
+| DSPs                     |    21.636 |       20 |        90 |           22.22 |
+| I/O                      |    30.467 |       50 |       106 |           47.17 |
+| Static Power             |     0.486 |          |           |                 |
+| Total                    |   110.883 |          |           |                 |
++--------------------------+-----------+----------+-----------+-----------------+
+
+
+1.2 Power Supply Summary
+------------------------
+
++-----------+-------------+-----------+-------------+------------+
+| Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) |
++-----------+-------------+-----------+-------------+------------+
+| Vccint    |       1.000 |    80.311 |      79.969 |      0.342 |
+| Vccaux    |       1.800 |     2.542 |       2.489 |      0.053 |
+| Vcco33    |       3.300 |     0.000 |       0.000 |      0.000 |
+| Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |
+| Vcco18    |       1.800 |    14.401 |      14.400 |      0.001 |
+| Vcco15    |       1.500 |     0.000 |       0.000 |      0.000 |
+| Vcco135   |       1.350 |     0.000 |       0.000 |      0.000 |
+| Vcco12    |       1.200 |     0.000 |       0.000 |      0.000 |
+| Vccaux_io |       1.800 |     0.000 |       0.000 |      0.000 |
+| Vccbram   |       1.000 |     0.039 |       0.028 |      0.011 |
+| MGTAVcc   |       1.000 |     0.000 |       0.000 |      0.000 |
+| MGTAVtt   |       1.200 |     0.000 |       0.000 |      0.000 |
+| Vccadc    |       1.800 |     0.020 |       0.000 |      0.020 |
++-----------+-------------+-----------+-------------+------------+
+
+
+1.3 Confidence Level
+--------------------
+
++-----------------------------+------------+--------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| User Input Data             | Confidence | Details                                                | Action                                                                                                             |
++-----------------------------+------------+--------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Design implementation state | High       | Design is routed                                       |                                                                                                                    |
+| Clock nodes activity        | Low        | User specified less than 75% of clocks                 | Provide missing clock activity with a constraint file, simulation results or by editing the "By Clock Domain" view |
+| I/O nodes activity          | Low        | More than 75% of inputs are missing user specification | Provide missing input activity with simulation results or by editing the "By Resource Type -> I/Os" view           |
+| Internal nodes activity     | Medium     | User specified less than 25% of internal nodes         | Provide missing internal nodes activity with simulation results or by editing the "By Resource Type" views         |
+| Device models               | High       | Device models are Production                           |                                                                                                                    |
+|                             |            |                                                        |                                                                                                                    |
+| Overall confidence level    | Low        |                                                        |                                                                                                                    |
++-----------------------------+------------+--------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+
+
+2. Settings
+-----------
+
+2.1 Environment
+---------------
+
++-----------------------+--------------------------+
+| Ambient Temp (C)      | 25.0                     |
+| ThetaJA (C/W)         | 5.0                      |
+| Airflow (LFM)         | 250                      |
+| Heat Sink             | medium (Medium Profile)  |
+| ThetaSA (C/W)         | 4.6                      |
+| Board Selection       | medium (10"x10")         |
+| # of Board Layers     | 12to15 (12 to 15 Layers) |
+| Board Temperature (C) | 25.0                     |
++-----------------------+--------------------------+
+
+
+2.2 Clock Constraints
+---------------------
+
++-------+--------+-----------------+
+| Clock | Domain | Constraint (ns) |
++-------+--------+-----------------+
+
+
+3. Detailed Reports
+-------------------
+
+3.1 By Hierarchy
+----------------
+
++----------------------------------------------+-----------+
+| Name                                         | Power (W) |
++----------------------------------------------+-----------+
+| fft                                          |   110.396 |
+|   all_instances[0].butterfly                 |     0.781 |
+|   all_instances[0].first_stages_only.dl_im   |     4.580 |
+|   all_instances[0].first_stages_only.dl_re   |     4.616 |
+|   all_instances[0].first_stages_only.rotator |     3.678 |
+|   all_instances[0].first_stages_only.tf_rom  |     2.550 |
+|   all_instances[1].butterfly                 |     0.815 |
+|   all_instances[1].first_stages_only.dl_im   |     4.331 |
+|     mem_reg_0_63_0_2                         |     0.042 |
+|     mem_reg_0_63_3_5                         |     0.042 |
+|     mem_reg_0_63_6_8                         |     0.042 |
+|     mem_reg_0_63_9_9                         |     0.017 |
+|   all_instances[1].first_stages_only.dl_re   |     4.252 |
+|     mem_reg_0_63_0_2                         |     0.042 |
+|     mem_reg_0_63_3_5                         |     0.042 |
+|     mem_reg_0_63_6_8                         |     0.051 |
+|     mem_reg_0_63_9_9                         |     0.014 |
+|   all_instances[1].first_stages_only.rotator |     4.137 |
+|   all_instances[1].first_stages_only.tf_rom  |     2.858 |
+|   all_instances[2].butterfly                 |     1.097 |
+|   all_instances[2].first_stages_only.dl_im   |     0.648 |
+|     mem_reg_0_31_0_5                         |     0.092 |
+|     mem_reg_0_31_6_10                        |     0.078 |
+|   all_instances[2].first_stages_only.dl_re   |     0.590 |
+|     mem_reg_0_31_0_5                         |     0.109 |
+|     mem_reg_0_31_6_10                        |     0.092 |
+|   all_instances[2].first_stages_only.rotator |     5.253 |
+|   all_instances[2].first_stages_only.tf_rom  |     0.551 |
+|   all_instances[3].butterfly                 |     1.293 |
+|   all_instances[3].first_stages_only.dl_im   |     0.702 |
+|     mem_reg_0_15_0_5                         |     0.105 |
+|     mem_reg_0_15_6_11                        |     0.109 |
+|   all_instances[3].first_stages_only.dl_re   |     0.609 |
+|     mem_reg_0_15_0_5                         |     0.112 |
+|     mem_reg_0_15_6_11                        |     0.095 |
+|   all_instances[3].first_stages_only.rotator |     5.381 |
+|   all_instances[3].first_stages_only.tf_rom  |     0.581 |
+|   all_instances[4].butterfly                 |     1.375 |
+|   all_instances[4].first_stages_only.dl_im   |     0.702 |
+|     mem_reg_0_7_0_5                          |     0.095 |
+|     mem_reg_0_7_12_12                        |     0.016 |
+|     mem_reg_0_7_6_11                         |     0.098 |
+|   all_instances[4].first_stages_only.dl_re   |     0.774 |
+|     mem_reg_0_7_0_5                          |     0.104 |
+|     mem_reg_0_7_12_12                        |     0.017 |
+|     mem_reg_0_7_6_11                         |     0.101 |
+|   all_instances[4].first_stages_only.rotator |     5.455 |
+|   all_instances[4].first_stages_only.tf_rom  |     0.667 |
+|   all_instances[5].butterfly                 |     1.722 |
+|   all_instances[5].first_stages_only.dl_im   |     0.748 |
+|     mem_reg_0_3_0_5                          |     0.094 |
+|     mem_reg_0_3_12_13                        |     0.033 |
+|     mem_reg_0_3_6_11                         |     0.094 |
+|   all_instances[5].first_stages_only.dl_re   |     0.701 |
+|     mem_reg_0_3_0_5                          |     0.101 |
+|     mem_reg_0_3_12_13                        |     0.033 |
+|     mem_reg_0_3_6_11                         |     0.102 |
+|   all_instances[5].first_stages_only.rotator |     5.204 |
+|   all_instances[5].first_stages_only.tf_rom  |     0.520 |
+|   all_instances[6].butterfly                 |     1.964 |
+|   all_instances[6].first_stages_only.dl_im   |     0.729 |
+|     mem_reg_0_1_0_5                          |     0.104 |
+|     mem_reg_0_1_12_14                        |     0.045 |
+|     mem_reg_0_1_6_11                         |     0.094 |
+|   all_instances[6].first_stages_only.dl_re   |     0.731 |
+|     mem_reg_0_1_0_5                          |     0.096 |
+|     mem_reg_0_1_12_14                        |     0.054 |
+|     mem_reg_0_1_6_11                         |     0.097 |
+|   all_instances[6].first_stages_only.rotator |     5.471 |
+|   all_instances[6].first_stages_only.tf_rom  |     0.241 |
+|   all_instances[7].butterfly                 |     2.033 |
+|   controller                                 |     0.393 |
++----------------------------------------------+-----------+
+
+
